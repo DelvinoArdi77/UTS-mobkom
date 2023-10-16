@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UTSDelvino</string>
+    <string name="matkul1">Mobile Computing</string>
+    <string name="sks1">3</string>
+    <string name="matkul2">Animasi Komputer</string>
+    <string name="sks2">3</string>
+    <string name="matkul3">Metode Penelitian</string>
+    <string name="sks3">2</string>
+    <string name="matkul4">STEM</string>
+    <string name="sks4">3</string>
+    <string name="matkul5">Data Mining</string>
+    <string name="sks5">3</string>
+    <string name="matkul6">Komputer dan Masyarakat</string>
+    <string name="sks6">2</string>
+    <string name="matkul7">Kewirausahaan</string>
+    <string name="sks7">3</string>
+    <string name="matkul8">Pengantar Kecerdasan Buatan</string>
+    <string name="sks8">3</string>
+    <string name="matkul9">Teori Bahasa dan Automata</string>
+    <string name="sks9">2</string>
+    <string name="matkul10">Sidang Pra Skripsi</string>
+    <string name="sks10">6</string>
+</resources>
